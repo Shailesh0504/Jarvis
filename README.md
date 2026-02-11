@@ -1,6 +1,6 @@
 # Jarvis Voice Assistant
 
-A full-featured voice assistant for your PC — Jarvis. Understands **Hinglish** and **English**, runs in voice-only or with a system tray and type-to-chat GUI.
+A full-featured voice assistant for your PC — like Iron Man's JARVIS. Understands **Hinglish** and **English**, runs in voice-only or with a system tray and type-to-chat GUI.
 
 ---
 
